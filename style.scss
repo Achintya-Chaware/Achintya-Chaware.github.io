@@ -187,6 +187,7 @@ img {
 .site-info {
   font-size: 20px;
   float: left;
+  color: $gray;
 
   @include mobile {
     float: none;
@@ -200,7 +201,7 @@ img {
   color: $gray;
   cursor: pointer;
   font-family: $georgia;
-  font-weight: bold;
+  font-weight: 500;
   font-size: 35px;
   letter-spacing: 1px;
 }

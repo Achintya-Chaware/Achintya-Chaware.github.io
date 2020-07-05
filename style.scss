@@ -187,7 +187,6 @@ img {
 .site-info {
   font-size: 20px;
   float: left;
-  color: $gray;
 
   @include mobile {
     float: none;
@@ -198,7 +197,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $gray;
+  color: #827e71;
   cursor: pointer;
   font-family: $georgia;
   font-weight: 500;

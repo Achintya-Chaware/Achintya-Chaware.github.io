@@ -18,7 +18,8 @@ html {
 }
 
 body {
-	background: #fffefa;
+  background: url(img_man.jpg) no-repeat center fixed;
+  background-size: cover;
   font: 18px/1.4 $georgia;
   color: $darkGray;
 }

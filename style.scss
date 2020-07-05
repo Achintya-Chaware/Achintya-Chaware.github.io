@@ -29,7 +29,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 750px;
+  max-width: 1000px;
   padding: 0 10px;
   width: 100%;
 }
@@ -200,8 +200,8 @@ img {
   color: $black;
   cursor: pointer;
   font-family: $georgia;
-  font-weight: 500;
-  font-size: 40px;
+  font-weight: bold;
+  font-size: 35px;
   letter-spacing: 1px;
 }
 

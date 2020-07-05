@@ -73,7 +73,6 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
     text-decoration: underline;  
   }
 }
@@ -197,7 +196,7 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $georgia;
-  font-weight: bold;
+  font-weight: 500;
   font-size: 40px;
   letter-spacing: 1px;
 }

@@ -24,7 +24,7 @@ style {
 
 body {
   font: 18px/1.4 $georgia;
-  color: $darkGray;
+  color: #666666;
 }
 
 .container {
@@ -36,8 +36,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $georgia;
-  color: $darkerGray;
-  font-weight: bold;
+  color: #666666;
+  font-weight: 500;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    color: #666666;
   }
 }
 
@@ -65,7 +65,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #666666;
 }
 
 p {
@@ -230,14 +230,14 @@ nav {
 
   a {
     margin-right: 20px;
-    color: $darkGray;
+    color: #666666;
     text-align: left;
-    font-weight: bold;
+    font-weight: 500;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: #666666;
     }
   }
 }

@@ -12,4 +12,4 @@ permalink: /about/
 Apart from that, lately, I have started coding and I have done courses on python and Flutter. I have also developed a major interest in space and rocket science and I am desperate to know more about it. 
 
 ## Contact Me:
-https://achintya.chaware@gmail.com
+[achintya.chaware@gmail.com](mailto:achintya.chaware@gmail.com)

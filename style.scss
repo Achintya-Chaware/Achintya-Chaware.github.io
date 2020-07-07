@@ -23,7 +23,7 @@ style {
 }
 
 body {
-  font: 24px/1.4 $georgia;
+  font: 22px/1.4 $georgia;
   color: #666666;
 }
 
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 40px;
   a {
     color: #666666;
   }
@@ -200,8 +200,8 @@ img {
   color: #666666;
   cursor: pointer;
   font-family: $georgia;
-  font-weight: bold;
-  font-size: 40px;
+  font-weight: 500;
+  font-size: 50px;
   letter-spacing: 1px;
 }
 
@@ -232,9 +232,9 @@ nav {
     margin-right: 20px;
     color: #666666;
     text-align: left;
-    font-weight: bold;
+    font-weight: 500;
     letter-spacing: 1px;
-    font-size: 24px;
+    font-size: 26px;
 
     @include mobile {
       margin: 0 10px;

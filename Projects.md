@@ -1,7 +1,9 @@
 ---
 layout: page
-title: My Work
+title: Project1
 permalink: /projects/
 ---
-## Project1
 hi
+
+# Project2
+hihi

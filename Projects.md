@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /peojects/
+permalink: /projects/
 ---
 
  I am a high school student from the town of Karanja Lad in Maharashtra. I did my secondary and higher education from J.C. High School and Junior College. I have passed my SSC exam with a score of 95% and appeared for the HSC exam this year. Currently, I am preparing for various engineering entrance exams.

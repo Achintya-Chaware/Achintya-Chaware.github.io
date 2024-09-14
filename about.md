@@ -4,12 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
- I am a high school student from the town of Karanja Lad in Maharashtra. I did my secondary and higher education from J.C. High School and Junior College. I have passed my SSC exam with a score of 95% and appeared for the HSC exam this year. Currently, I am preparing for various engineering entrance exams.
- 
-## More About Me
-I am extremely interested in technology old and new. I closely follow hacking and DIY communities. I also know basic electronics and I do Arduino projects as a hobby. I love to make things with my hands be it an Arduino project or some artwork or even food! Speaking of food, I love both making and eating food. My other interests include Formula 1 and photography. I am a huge F1 fan and an amateur photographer. I have also very recently developed an interest in videography.
-
-Apart from that, lately, I have started coding and I have done courses on python and Flutter. I have also developed a major interest in space and rocket science and I am desperate to know more about it. 
+I am an Electronics and Communication Engineer and I have done my BTech from MIT WPU, Pune. I come from Karanja Lad, a small town in Maharashtra. I was always very fond of figuring out how things work since I was a child. This might have led to my inclination towards engineering. I am enthused by the idea of using technology as a tool for creating a positive impact on my country and humankind.
+In my engineering journey, I have worked on various projects and internships to explore my interests. I have also tried to form and lead teams as it is something that excites me. I am always looking forward to working on unconventional and ambitious projects and gaining some valuable experiences from them. My fields of interest include Science and Technology, Space Exploration, Business and Finance, History and Geopolitics. I am an avid Formula 1 follower and I love to make things with my hands, be it DIY projects or cooking!
+Right now, I am trying to find the things that enthuse me and also solve some real-world problems. Feel free to connect with me on LinkedIn or reach out to me via Email!
 
 ## Contact Me
 [achintya.chaware@gmail.com](mailto:achintya.chaware@gmail.com)

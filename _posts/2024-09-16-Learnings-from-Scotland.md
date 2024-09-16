@@ -16,7 +16,7 @@ Every year, we participate in a competition called the European Hyperloop Week. 
 </p>
 <br>
 <figure align = "center">
-  <img src="https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%202.jpeg" width = "490"/>
+  <img src="https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%202.jpeg" width = "560"/>
   <figcaption>The Team at the University of Edinburgh</figcaption>
 </figure>
 <br>

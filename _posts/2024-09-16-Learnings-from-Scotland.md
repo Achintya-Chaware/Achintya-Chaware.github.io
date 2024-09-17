@@ -40,4 +40,31 @@ This whole journey though, was not perfect by any standards. My own subsystem di
 <p align = "justify">
 Although these learnings are from a mere student competition, I hope they are transferable to other things in life.
 </p>
-<h3>1. Focus is Key</h3>
+<h2>1. Focus is Key</h2>
+<p align = "justify">
+It is very easy to fall for the trap of over-engineering. We have always heard that simple systems are very robust blah blah but it goes beyond that. It is important to question, at every step, whether what you are doing is really necessary and if you are reinventing the wheel. Especially when you are short on money or time or both.
+</p>
+<p align = "justify">
+It is easy to end up doing what is more lucrative than what is required. In our case, lucrative was something that was technically more challenging, because we were doing this to improve our skills. 
+</p>
+<p align = "justify">
+Having a strong set of cohesive top-level objectives and requirements for any complex system is very important. Focus is working towards fulfilling these objectives and requirements in the best possible way rather than making something that is sophisticated. 
+</p>
+<p align = "justify">
+Oftentimes we chase perfection, by making every single element of the system “perfect” and somehow hoping that all the elements will somehow converge to form a perfect system. But, in my experience, perfection is extremely hard to achieve bottom up. For most things, if we have some strong top-level objectives and requirements and if we make a system that is optimized for perfection within those constraints, we just have to choose elements of subsystems that “work”, which is much easier to do.
+</p>
+<p align = "justify">
+Since I come from an electronics background, I would especially emphasize that the electronics or the control system is often the top level subsystem in these types of systems. So making sure that objectives and requirements are being met almost becomes the job of the person responsible for the control systems.
+</p>
+<br>
+<figure align = "center">
+  <img src="https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%205.jpeg" width = "560"/>
+  <figcaption>The Brain behind our Edinburgh Pod (the “MVCU”)</figcaption>
+</figure>
+<br>
+<p align = "justify">
+In the context of Vegapod, we used to have a working electronics and navigation system based on the RPi. It was easy to work with and we could’ve run the pod using that. But, instead, we decided to make a fully embedded, delocalised system because we thought that it would be very cool. In theory, if this system worked, it would have been brilliant. But it wasn’t practical. In a tough competition, we should have done what works for sure rather than what sounds cool to do.
+</p>
+<p align = "justify">
+Focus is a game of what you optimize for. We optimized for learning and that wasn’t necessarily wrong. 
+</p>

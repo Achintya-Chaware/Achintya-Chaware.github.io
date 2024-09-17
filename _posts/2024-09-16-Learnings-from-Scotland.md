@@ -68,3 +68,10 @@ In the context of Vegapod, we used to have a working electronics and navigation 
 <p align = "justify">
 Focus is a game of what you optimize for. We optimized for learning and that wasn’t necessarily wrong. 
 </p>
+<h2>2. Improvise when Time is Short</h2>
+<p align = "justify">
+I have this habit of having to understand something through and through before actually using it for a practical application. But, I have learnt that it is important to improvise. If you find some resource that gives you the recipe to use that tool or an example of a prior usage of that tool, make use of that tool by following that recipe. It is okay if you don’t understand fully how it works as long as it works. This isn’t always a good idea, but more often than not it is, also because when you follow the recipe and use that tool, you will understand how it works to a certain extent. This particular thing is generally done for code when we use libraries. We don’t necessarily have to know what the library is doing internally as long as it produces the result we want. 
+</p>
+<p align = "justify">
+Making a system that satisfies the given basic requirements takes some effort and time but more than that, optimizing that system takes more effort and time. When time is short, this optimization part can be saved for the end if there is spare time.
+</p>

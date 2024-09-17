@@ -150,3 +150,4 @@ EHW 2023 was an exhilarating (and sometimes almost traumatic) experience for me.
   <img src="https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%2011.jpeg" width = "560"/>
   <figcaption>Probably the Most Beautiful City I have been to</figcaption>
 </figure>
+<br>

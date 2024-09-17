@@ -88,3 +88,31 @@ As the title suggests, systems engineering is a type of engineering technique th
   <li align = "justify">Our pod turned out to be a patchwork of every team member’s individual efforts rather than a homogeneous system. If the requirements analysis was done properly, it might have helped with the hundreds of constituent parts to make a homogeneous system. The way that we used to make our parts fit together was to make a mechanical CAD of the complete pod with the constituent parts still under development and undergoing changes. We locked the functionality/solutions on the basis of basic requirements set by the rulebook rather than locking the complete requirements and then finding the solution that fits best.</li>
   <li align = "justify">It is very easy for teams to get lost in activity. Especially when they are college students who are forced to sit and work in the workshop. Progress on a project has to be measured on the basis of results (https://www.youtube.com/watch?v=JAk448volww). For any kind of project, we cannot wait for the project to get over to access the results. Various kinds of indicators are used for this purpose in the industry. But for complex systems, the requirements we define in the very beginning can serve as the indicators. Looking at the requirements and concluding, using credible testing or hypothesis that they are indeed getting solved one by one is an indicator of the puzzle getting solved one requirement at a time.</li>
 </ol>
+<h2>4. Continuous Testing</h2>
+<p align = "justify">
+As mentioned in the last point, we have to keep testing using credible methods whether the system we are making is fitting the requirements we have set. Credible test methods can include specialized test setups, templates, etc. Making test setups is one area where there is a lot of opportunity for some out of the box thinking. If we do not keep testing our system and its individual parts, we do not know whether we are fulfilling the requirements.
+</p>
+<p align = "justify">
+Doing testing parallel to the entire development lifecycle also gives us an opportunity to double down on what works and drop what doesn’t work. In Vegapod electronics, we tried to design the perfect system. But perfection only matters if functionality exists.
+</p>
+<p align = "justify">
+These principles of continuous integration are widely used in software development but not so much in hardware, because it is hard. The point about improvising that I mentioned before might sound exactly opposing this, but improvising is about the methodology and testing is about the outcome. We have made the mistake of improvising the outcomes which is basically the infamous “Jugaad”.
+</p>
+<h2>5. Having a Plan B, C, D and Further</h2>
+<p align = "justify">
+Every decision that affects a functional requirement must have multiple contingency plans in case the original plan doesn’t work out. In our pod, we were betting on a series of interdependent things just working out without a solid plan B. What makes a plan B solid is whether or not that plan or method has been validated by someone or somewhere before. This is quite difficult for new teams like us who do not have a legacy of previous generation systems.
+</p>
+<br>
+<figure align = "center">
+  <img src="https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%207.jpeg" width = "560"/>
+  <figcaption>The 2023 Delft Hyperloop Pod</figcaption>
+</figure>
+<br>
+<figure align = "center">
+  <img src="https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%208.jpeg" width = "560"/>
+  <figcaption>Plan B Implementation on the Delft Hyperloop Pod</figcaption>
+</figure>
+<br>
+<p align = "justify">
+The 2023 Delft Hyperloop pod demonstrated this very well. While the pod was brilliantly engineered, admittedly they did not have a strong electronics team that year and they had to rely on a plan B subsystem that looked as if it was put together at the last moment.
+</p>

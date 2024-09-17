@@ -75,3 +75,16 @@ I have this habit of having to understand something through and through before a
 <p align = "justify">
 Making a system that satisfies the given basic requirements takes some effort and time but more than that, optimizing that system takes more effort and time. When time is short, this optimization part can be saved for the end if there is spare time.
 </p>
+<h2>3. Systems Engineering</h2>
+<figure align = "center">
+  <img src="https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%206.jpeg" width = "560"/>
+  <figcaption>The Immaculate Swissloop Pod Interior</figcaption>
+</figure>
+<br>
+<p align = "justify">
+As the title suggests, systems engineering is a type of engineering technique that is used to develop and manage complex systems. This framework is extremely useful to break down complex systems into its constituent pieces and solve them one piece at a time. It is a methodical approach to deal with complexity and has been extensively used by the likes of NASA. NASA has a systems engineering handbook that is especially useful for getting started with this framework (https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf). We did not use systems engineering frameworks for working on our pod. This taught me that it is not only an engineering framework but also a team management framework. There are two aspects in which it could’ve helped 
+</p>
+<ol type="a">
+  <li align = "justify">Our pod turned out to be a patchwork of every team member’s individual efforts rather than a homogeneous system. If the requirements analysis was done properly, it might have helped with the hundreds of constituent parts to make a homogeneous system. The way that we used to make our parts fit together was to make a mechanical CAD of the complete pod with the constituent parts still under development and undergoing changes. We locked the functionality/solutions on the basis of basic requirements set by the rulebook rather than locking the complete requirements and then finding the solution that fits best.</li>
+  <li align = "justify">It is very easy for teams to get lost in activity. Especially when they are college students who are forced to sit and work in the workshop. Progress on a project has to be measured on the basis of results (https://www.youtube.com/watch?v=JAk448volww). For any kind of project, we cannot wait for the project to get over to access the results. Various kinds of indicators are used for this purpose in the industry. But for complex systems, the requirements we define in the very beginning can serve as the indicators. Looking at the requirements and concluding, using credible testing or hypothesis that they are indeed getting solved one by one is an indicator of the puzzle getting solved one requirement at a time.</li>
+</ol>

@@ -77,7 +77,7 @@ Making a system that satisfies the given basic requirements takes some effort an
 </p>
 <h2>3. Systems Engineering</h2>
 <figure align = "center">
-  <img src="https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%206.jpeg" width = "560"/>
+  <img src="https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%206.jpeg" width = "350"/>
   <figcaption>The Immaculate Swissloop Pod Interior</figcaption>
 </figure>
 <br>

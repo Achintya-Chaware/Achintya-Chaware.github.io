@@ -116,3 +116,37 @@ Every decision that affects a functional requirement must have multiple continge
 <p align = "justify">
 The 2023 Delft Hyperloop pod demonstrated this very well. While the pod was brilliantly engineered, admittedly they did not have a strong electronics team that year and they had to rely on a plan B subsystem that looked as if it was put together at the last moment.
 </p>
+<h2>6. Someone has Probably Done it Before</h2>
+<p align = "justify">
+There are some problems which you will take months to solve but there definitely exists a person who can solve it in days or hours. Especially in the case of student teams, it happens sometimes that all we can see is the problem and we try to solve it with the tools or knowledge that we have. In my experience, whenever you are stuck, it is a great idea to ask yourself and explore. Take a step back and get a big picture on the situation, explore if you have any “wild card” ways to solve that problem. Can we use a totally different approach? Are there any tools to solve this problem that we don’t know? Is there any common knowledge that is used by the people who work on these sorts of problems every day? Is there anyone we can ask about this?
+</p>
+<p align = "justify">
+In Vegapod, our electronics subsystem was based on an embedded delocalised architecture connected in a star topology. Inspired by the AUTOSAR architecture, there was an MVCU (Master Vehicle Control Unit) and a bunch of VCUs (vehicle Control Units) were attached to it. These communicated with the MVCU using CAN (Controller Area Network), an automotive industry standard.
+</p>
+<br>
+<figure align = "center">
+  <img src="https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%209.jpeg" width = "560"/>
+  <figcaption>One of the VCUs</figcaption>
+</figure>
+<br>
+<p align = "justify">
+Implementing CAN into our system proved to be a major challenge for us as we were doing it from scratch and we almost had no idea what are the possible ways of implementing it. But in hindsight, if we had contacted someone from the automotive industry who is experienced with CAN, it would’ve helped us massively at the time because it turns out that there are totally different ways available of implementing that topology more easily and robustly.
+</p>
+<h2>7. Presentation</h2>
+<figure align = "center">
+  <img src="https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%2010.jpeg" width = "560"/>
+  <figcaption>Me Presenting the Electronics Subsystem to the Jury</figcaption>
+</figure>
+<br>
+<p align = "justify">
+I think that the objective of a presentation is to create a narrative rather than to simply deliver information. You are trying to “present” your version of the story. A way to think about this is that an audience is a mandatory component for a presentation. So, it is important to think from the audience’s perspective and present them with something that keeps their attention and delivers the necessary information. Presentation offers you some room to emphasize on what you set out to create rather than giving the technical details of what you have created. You can be generous about explaining your vision for the system that you have created. You can control what the person thinks about what you have created through the presentation. I believe that we did not use this power that presentations provide to the full extent. We could’ve been more on point with the information and more persuasive with the narrative. I think Swissloop and Delft Hyperloop had some of the best presentations I have seen, they killed it. 
+</p>
+<br>
+<p align = "justify">
+EHW 2023 was an exhilarating (and sometimes almost traumatic) experience for me. It showed me how valuable it can be with the best in your field, albeit for only a week. It was not just a great engineering experience but it was much more than that. I am fortunate that I got to make the mistakes that I did, I think the memories and learnings will stay with me forever. Here’s a bonus picture of the beautiful city of Edinburgh! 
+</p>
+<br>
+<figure align = "center">
+  <img src="https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%2011.jpeg" width = "560"/>
+  <figcaption>Probably the Most Beautiful City I have been to</figcaption>
+</figure>

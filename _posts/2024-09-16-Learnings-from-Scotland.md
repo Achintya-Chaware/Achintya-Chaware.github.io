@@ -40,3 +40,4 @@ This whole journey though, was not perfect by any standards. My own subsystem di
 <p align = "justify">
 Although these learnings are from a mere student competition, I hope they are transferable to other things in life.
 </p>
+<h3>1. Focus is Key</h3>

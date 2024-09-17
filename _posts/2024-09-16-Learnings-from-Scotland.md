@@ -20,3 +20,17 @@ Every year, we participate in a competition called the European Hyperloop Week. 
   <figcaption>The Team at the University of Edinburgh</figcaption>
 </figure>
 <br>
+<p align = "justify">
+The EHW 2023 was held at the University of Edinburgh in Scotland. I participated in that competition along with the team as the Head of Electronics in that competition. For the previous one year leading up to the competition, I led a team of 5-6 people working on the electronics and navigation system of the pod which was responsible for controlling the entire pod and acquiring various data about its health and performance. For a new team like ours with a very low budget compared to others, we did quite well. We became the first Indian team to clear the TSD rounds and to be inspected by the jury, and the jury was very happy with the work we had done to say the least.
+</p>
+<br>
+<figure align = "center">
+  <img src=" https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%203.jpeg" width = "560"/>
+  <figcaption>Me and the Pod>
+</figure>
+<br>
+<figure align = "center">
+  <img src="https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%204.jpeg" width = "560"/>
+  <figcaption>Assembling the Pod in the Living Room of our Airbnb>
+</figure>
+<br>

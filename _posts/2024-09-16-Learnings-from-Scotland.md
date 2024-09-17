@@ -26,11 +26,17 @@ The EHW 2023 was held at the University of Edinburgh in Scotland. I participated
 <br>
 <figure align = "center">
   <img src=" https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%203.jpeg" width = "560"/>
-  <figcaption>Me and the Pod>
+  <figcaption>Me and the Pod</figcaption>
 </figure>
 <br>
 <figure align = "center">
   <img src="https://raw.githubusercontent.com/Achintya-Chaware/Achintya-Chaware.github.io/master/images/Scotland%20Blog%204.jpeg" width = "560"/>
-  <figcaption>Assembling the Pod in the Living Room of our Airbnb>
+  <figcaption>Assembling the Pod in the Living Room of our Airbnb</figcaption>
 </figure>
 <br>
+<p align = "justify">
+This whole journey though, was not perfect by any standards. My own subsystem did not work and we faced a lot of issues that prevented us from running the pod on the track and getting nominated for any awards. I have spent a lot of time analyzing what could have been done better, especially personally. This article is a compilation of a few broad, top level learnings about making a complex system and leading a team learnt from my and the team’s mistakes and also the things done right by the other teams.
+</p>
+<p align = "justify">
+Although these learnings are from a mere student competition, I hope they are transferable to other things in life.
+</p>

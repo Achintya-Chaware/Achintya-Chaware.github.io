@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
 ---
 <p align = "justify">
 I am an Electronics and Communication Engineer and I have done my BTech from MIT WPU, Pune. I come from Karanja Lad, a small town in Maharashtra. I was always very fond of figuring out how things work since I was a child. This might have led to my inclination towards engineering. I am enthused by the idea of using technology as a tool for creating a positive impact on my country and humankind.

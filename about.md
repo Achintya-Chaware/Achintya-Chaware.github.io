@@ -4,7 +4,7 @@ title: Hello! I am Achintya.
 permalink: /
 ---
 <p align = "justify">
-I currently work at <a href="https://www.pixxel.space/">Pixxel</a> as a Program Management Associate, based in Bangalore. What draws me to this kind of work is simple: I find it fulfilling to create impact in the world through technology, and I love the process of building things almost as much as the outcome.
+I currently work at <a href="https://www.pixxel.space/">Pixxel</a> as a Program Management Associate, based in Bangalore. What draws me to this kind of work is simple. I find it fulfilling to create impact in the world through technology, and I love the process of building things almost as much as the outcome.
 </p>
 <p align = "justify">
 I grew up in <a href="https://en.wikipedia.org/wiki/Karanja_Lad">Karanja Lad</a>, a small town in Maharashtra, in a home steeped in both engineering and business. Somewhere in there, I picked up a love for both.
